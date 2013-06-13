@@ -1,6 +1,7 @@
 package com.redviking.web;
 
 import java.io.IOException;
+import java.util.Date;
 
 import javax.servlet.ServletException;
 import javax.servlet.http.HttpServletRequest;
@@ -15,11 +16,15 @@ public class HelloController implements Controller {
 
     protected final Logger logger = LoggerFactory.getLogger(getClass());
 
+    //TODO use the @Controller annotation!
+
     public ModelAndView handleRequest(HttpServletRequest request, HttpServletResponse response)
             throws ServletException, IOException {
 
-        logger.info("Returning hello view");
+        String now = (new Date()).toString();
 
-        return new ModelAndView("hello.jsp");
+        logger.info("Returning hello view with " + now);
+
+        return new ModelAndView("hello", "now", now);
     }
 }

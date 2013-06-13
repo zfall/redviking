@@ -1,7 +1,5 @@
 http://static.springsource.org/docs/Spring-MVC-step-by-step/part2.html
 
-good formtting (4 spaces, clear trailing whitespaces)
-
 spring mvc -> test.htm <- esetleg test.jsp van mogotte (megerteni a ModelAndView-t, a controller interface-t es a tobbieket)
 jQuery
 jsp framing (somehow) e.g. <%@ include file="/WEB-INF/jsp/include.jsp" %>

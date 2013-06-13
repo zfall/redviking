@@ -18,3 +18,4 @@ git (github)
 eclipse + futtato kornyezet (tomcat/jetty) + a modositasok azonnal ervenyre jutnak!!
 slf4j
 egy projekt!
+spaces instead of tabs good formtting (4 spaces, clear trailing whitespaces)
