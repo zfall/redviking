@@ -3,3 +3,13 @@ http://run-jetty-run.googlecode.com/svn/trunk/updatesite
 
 launchers:
 <workspace>/.metadata/.plugins/.org.eclipse.debug.core/.launches
+
+
+
+DONE:
+
+maven
+git (github)
+eclipse + futtato kornyezet (tomcat/jetty) + a modositasok azonnal ervenyre jutnak!!
+slf4j
+egy projekt!
