@@ -4,6 +4,11 @@ http://run-jetty-run.googlecode.com/svn/trunk/updatesite
 launchers:
 <workspace>/.metadata/.plugins/.org.eclipse.debug.core/.launches
 
+Preferences -> Java -> Editor -> Save Actions remove trailing whitespace.
+
+Window->Preferences->Java->Code Style->Formatter->Edit->Indentation = "Spaces Only"
+
+Windows > Preferences > XML > XML Files > Editor and select Indent using spaces:
 
 
 DONE:
