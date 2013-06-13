@@ -17,4 +17,5 @@ JSTL
 
 SLF4J!!
 
-<workspace>/.metadata/.plugins/.org.eclipse.debug.core/.launches
+
+
