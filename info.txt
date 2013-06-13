@@ -1,3 +1,7 @@
+http://static.springsource.org/spring/docs/3.0.0.M3/reference/html/ch16s11.html
+
+http://static.springsource.org/docs/Spring-MVC-step-by-step/part2.html
+
 jetty plugin:
 http://run-jetty-run.googlecode.com/svn/trunk/updatesite
 
@@ -19,3 +23,4 @@ eclipse + futtato kornyezet (tomcat/jetty) + a modositasok azonnal ervenyre jutn
 slf4j
 egy projekt!
 spaces instead of tabs good formtting (4 spaces, clear trailing whitespaces)
+jsp framing (somehow) e.g. <%@ include file="/WEB-INF/jsp/include.jsp" %>
