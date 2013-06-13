@@ -1,0 +1,18 @@
+http://static.springsource.org/docs/Spring-MVC-step-by-step/part2.html
+
+maven
+git (github)
+eclipse + futtato kornyezet (tomcat/jetty) + a modositasok azonnal ervenyre jutnak!!
+spring mvc -> test.htm <- esetleg test.jsp van mogotte (megerteni a ModelAndView-t, a controller interface-t es a tobbieket)
+egy projekt!
+slf4j
+jQuery
+jsp framing (somehow) e.g. <%@ include file="/WEB-INF/jsp/include.jsp" %>
+javascript call handling: json DTO
+
+JSTL
+<%@ page session="false"%>
+<%@ taglib prefix="c" uri="http://java.sun.com/jsp/jstl/core" %>
+<%@ taglib prefix="fmt" uri="http://java.sun.com/jsp/jstl/fmt" %>
+
+SLF4J!!
