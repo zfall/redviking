@@ -13,3 +13,9 @@ good header and footer design (lopni valahonnan)
 login handling
 
 REST (for products)
+
+--widget -> kezzel: OK
+--footer -> kezzel: elmegy
+-- dinamikus navbar --> tagek?
+-- json requestek kezelést: controller: service.getEntities + renderView -> return
+   + oldalra js metodus: mit hivjon, milyen parameterrel, es hova tegye a valaszt?
